@@ -43,10 +43,10 @@ namespace AddressBook
 			this.LastName = lastName;
 		}
 
-		public String getCity()
-		{
-			return city;
-		}
+		//public String getCity()
+		//{
+		//	return city;
+	//	}
 
 		public void setCity(String city)
 		{

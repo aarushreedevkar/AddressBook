@@ -7,8 +7,8 @@
         {
             Console.WriteLine("Welcome in Address book System");
 
-            ///create dictionary and 
-            ///Dict is name of dictionary
+             
+            
             Dictionary<string, AddressBook> abDict = new Dictionary<string, AddressBook>();//string is Tkey and AddressBook is TValue.
             bool ProgramIsRunning = true;
 

@@ -8,9 +8,9 @@ namespace AddressBook
 {
     interface Iperson
     {
-        void displayPerson();
-        void editPerson();
-        void deletePerson();
+        //void displayPerson();
+        //void editPerson();
+        //void deletePerson();
 
 
     }
